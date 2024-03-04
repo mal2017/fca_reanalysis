@@ -7,7 +7,7 @@ rule supercell_per_experiment:
     params:
         gamma = 20,
         k_knn = 5,
-    conda:
-        "../envs/bioc_singlecell.yaml"
+    #conda:
+    #    "../envs/bioc_singlecell.yaml"
     script:
         "../scripts/supercell_per_experiment.R"
