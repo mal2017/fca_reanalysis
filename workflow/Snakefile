@@ -11,6 +11,7 @@ rule all:
     input:
         expand("results/import/fca_annotated_r_objs/{s}.usa.fca_annot.sce.rds",s=SAMPLES),
         expand("results/supercell/{s}.usa.fca_annot.supercell.sce.rds", s=SAMPLES),
+        "results/supercell_all/all.usa.fca_annot.supercell.sce.rds",
 
 include: "rules/download.smk"
 include: "rules/alevin-fry.smk"
