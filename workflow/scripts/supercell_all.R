@@ -2,7 +2,6 @@ library(SuperCell)
 library(tidyverse)
 library(scater)
 library(scran)
-library(rtracklayer)
 library(batchelor)
 
 # See https://github.com/GfellerLab/SuperCell/blob/master/vignettes/a_SuperCell.Rmd
