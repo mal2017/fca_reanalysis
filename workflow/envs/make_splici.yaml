@@ -7,4 +7,4 @@ dependencies:
   - bioconductor-eisar=1.14.0
   - bioconductor-bsgenome
   - bioconductor-genomicfeatures
-  - r-stringr
+  - r-tidyverse=2.0.0
