@@ -4,6 +4,29 @@ COMBINED_TE_GENOME_FA: resources/combined-anno/genome-plus-tes.fasta.gz
 EMBEDDING_JSON:
   FCA14: resources/fca/embedding_json/icmuj3_parsing_output.loom_col_attrs_Embedding_SCENIC_AUC_UMAP.json
   FCA9: resources/fca/embedding_json/icmuj3_parsing_output.loom_col_attrs_Embedding_SCENIC_AUC_UMAP.json
+  FCA5: resources/fca/embedding_json/icmuj3_parsing_output.loom_col_attrs_Embedding_SCENIC_AUC_UMAP.json
+  FCA1: resources/fca/embedding_json/icmuj3_parsing_output.loom_col_attrs_Embedding_SCENIC_AUC_UMAP.json
+  FCA7: resources/fca/embedding_json/icmuj3_parsing_output.loom_col_attrs_Embedding_SCENIC_AUC_UMAP.json
+  FCA8: resources/fca/embedding_json/icmuj3_parsing_output.loom_col_attrs_Embedding_SCENIC_AUC_UMAP.json
+  FCA10: resources/fca/embedding_json/icmuj3_parsing_output.loom_col_attrs_Embedding_SCENIC_AUC_UMAP.json
+  FCA11: resources/fca/embedding_json/icmuj3_parsing_output.loom_col_attrs_Embedding_SCENIC_AUC_UMAP.json
+  FCA12: resources/fca/embedding_json/icmuj3_parsing_output.loom_col_attrs_Embedding_SCENIC_AUC_UMAP.json
+  FCA15: resources/fca/embedding_json/icmuj3_parsing_output.loom_col_attrs_Embedding_SCENIC_AUC_UMAP.json
+  FCA13: resources/fca/embedding_json/icmuj3_parsing_output.loom_col_attrs_Embedding_SCENIC_AUC_UMAP.json
+  FCA4: resources/fca/embedding_json/icmuj3_parsing_output.loom_col_attrs_Embedding_SCENIC_AUC_UMAP.json
+  FCA6: resources/fca/embedding_json/icmuj3_parsing_output.loom_col_attrs_Embedding_SCENIC_AUC_UMAP.json
+
 ANNOTATION_TSV:
   FCA14: resources/fca/annotation_tsv/icmuj3_parsing_output.loom_col_attrs_R_annotation.tsv
   FCA9: resources/fca/annotation_tsv/icmuj3_parsing_output.loom_col_attrs_R_annotation.tsv
+  FCA5: resources/fca/annotation_tsv/icmuj3_parsing_output.loom_col_attrs_R_annotation.tsv
+  FCA1: resources/fca/annotation_tsv/icmuj3_parsing_output.loom_col_attrs_R_annotation.tsv
+  FCA7: resources/fca/annotation_tsv/icmuj3_parsing_output.loom_col_attrs_R_annotation.tsv
+  FCA8: resources/fca/annotation_tsv/icmuj3_parsing_output.loom_col_attrs_R_annotation.tsv
+  FCA10: resources/fca/annotation_tsv/icmuj3_parsing_output.loom_col_attrs_R_annotation.tsv
+  FCA11: resources/fca/annotation_tsv/icmuj3_parsing_output.loom_col_attrs_R_annotation.tsv
+  FCA12: resources/fca/annotation_tsv/icmuj3_parsing_output.loom_col_attrs_R_annotation.tsv
+  FCA15: resources/fca/annotation_tsv/icmuj3_parsing_output.loom_col_attrs_R_annotation.tsv
+  FCA13: resources/fca/annotation_tsv/icmuj3_parsing_output.loom_col_attrs_R_annotation.tsv
+  FCA4: resources/fca/annotation_tsv/icmuj3_parsing_output.loom_col_attrs_R_annotation.tsv
+  FCA6: resources/fca/annotation_tsv/icmuj3_parsing_output.loom_col_attrs_R_annotation.tsv
