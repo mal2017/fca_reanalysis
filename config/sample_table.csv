@@ -1,0 +1,14 @@
+sample_name,individual,age,time_unit,developmental_stage,sex,tissue,cell_type,fca_id
+FCA14_Female_head_adult_5dWT_Luo_sample5_S5,S5,5,day,adult,female,head,NA,FCA14
+FCA5_Male_Adult_Head2_S2,S2,5,day,adult,male,head,NA,FCA5
+FCA1_Head_S1,S1,5,day,adult,mixed,head,NA,FCA1
+FCA7_Female_Adult_Head1_S4,S4,5,day,adult,female,head,NA,FCA7
+FCA8_Female_Adult_Head2_S5,S5,5,day,adult,female,head,NA,FCA8
+FCA9_Female_Adult_Head3_S6,S6,5,day,adult,female,head,NA,FCA9
+FCA10_Male_head_adult_5dWT_Luo_sample4_S1,S1,5,day,adult,male,head,NA,FCA10
+FCA11_Male_head_adult_5dWT_Luo_sample5_S2,S2,5,day,adult,male,head,NA,FCA11
+FCA12_Male_head_adult_5dWT_Luo_sample6_S3,S3,5,day,adult,male,head,NA,FCA12
+FCA15_Female_head_adult_5dWT_Luo_sample6_S6,S6,5,day,adult,female,head,NA,FCA15
+FCA13_Female_head_adult_5dWT_Luo_sample4_S4,S4,5,day,adult,female,head,NA,FCA13
+FCA4_Male_Adult_Head1_S1,S1,5,day,adult,male,head,NA,FCA4
+FCA6_Male_Adult_Head3_S3,S3,5,day,adult,male,head,NA,FCA6

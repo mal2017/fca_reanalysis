@@ -1,0 +1,11 @@
+name: osca
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-scater=1.30.1
+  - bioconductor-scran=1.30.0
+  - bioconductor-scuttle=1.12.0
+  - r-tidyverse=2.0.0
+  - r-remotes

@@ -1,0 +1,9 @@
+TRANSCRIPTS_PLUS_TES_GTF: resources/combined-anno/transcripts-plus-tes.gtf
+COMBINED_TE_GENOME_FA: resources/combined-anno/genome-plus-tes.fasta.gz
+
+EMBEDDING_JSON:
+  FCA14: resources/fca/embedding_json/icmuj3_parsing_output.loom_col_attrs_Embedding_SCENIC_AUC_UMAP.json
+  FCA9: resources/fca/embedding_json/icmuj3_parsing_output.loom_col_attrs_Embedding_SCENIC_AUC_UMAP.json
+ANNOTATION_TSV:
+  FCA14: resources/fca/annotation_tsv/icmuj3_parsing_output.loom_col_attrs_R_annotation.tsv
+  FCA9: resources/fca/annotation_tsv/icmuj3_parsing_output.loom_col_attrs_R_annotation.tsv

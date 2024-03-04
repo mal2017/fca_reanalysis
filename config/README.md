@@ -1,0 +1,3 @@
+# A note on library names
+
+We grouped fastqs for quantification according to the identifier in the "Library" field at [ENA's record page for this project](https://www.ebi.ac.uk/ena/browser/view/PRJEB45570), under the assumption that each fastq is a resequencing of the same cells and library prep, such that the same barcode always corresponds to the same physical cell. We tested this assumption by treating the run with "L001" and "L003" as separate libraries and determining barcode overlap, then looking at barcode overlap. See `config/library_assumption_check/` for details.

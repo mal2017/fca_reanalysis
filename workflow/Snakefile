@@ -1,0 +1,18 @@
+import sys
+import peppy
+import glob
+
+configfile: "config/config.yaml"
+pepfile: "config/pep.yaml"
+
+SAMPLES = [x.sample_name for x in pep.samples]
+
+rule all:
+    input:
+        expand("results/import/fca_annotated_r_objs/{s}.usa.fca_annot.sce.rds",s=SAMPLES),
+        expand("results/supercell/{s}.usa.fca_annot.supercell.sce.rds", s=SAMPLES),
+
+include: "rules/download.smk"
+include: "rules/alevin-fry.smk"
+include: "rules/initial_scrna_steps.smk"
+include: "rules/supercell.smk"
