@@ -8,6 +8,8 @@ rule update_gtf_for_alevinfry:
         gtf = config.get("TRANSCRIPTS_PLUS_TES_GTF"),
     output:
         gtf = temp("results/tmp_af_txome.gtf")
+    conda: 
+        "../envs/make_splici.yaml"
     script:
         "../scripts/update_gtf_for_alevinfry.R"
 
@@ -32,6 +34,8 @@ rule make_splici:
         read_length = 91,
         flank_trim_length = 5,
         odir="results/transcriptome_splici_fl/",
+    conda: 
+        "../envs/make_splici.yaml"
     script:
         "../scripts/make_splici.R"
 

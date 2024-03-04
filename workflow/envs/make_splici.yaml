@@ -1,0 +1,10 @@
+name: osca
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-eisar=1.14.0
+  - bioconductor-bsgenome
+  - bioconductor-genomicfeatures
+  - r-stringr
